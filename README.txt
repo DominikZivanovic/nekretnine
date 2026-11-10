@@ -57,7 +57,7 @@ Outlieri po medijalnim cijenama unutar vlastitih županija su:
 Split, Dubrovnik, Primošten i Rogoznica kao skupi outlieri te
 Vrbovsko, Benkovac, Drniš i Knin kao jeftini outlieri.
 
-Distribucija indeksa priuštivosti po jls prikazuje djeluje bimodalno.
+Distribucija indeksa priuštivosti po jls naizgled djeluje bimodalno.
 Provedenim Hartiganovim testom za multimodalnost nismo mogli ustanoviti
 statistički značajnu prisutnost multimodalne distribucije.
 Međutim, granica između dva prividna vrha nam služi kao dobra granica za određivanje
