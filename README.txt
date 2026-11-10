@@ -31,6 +31,9 @@ Dakle, što je manji indeks priuštivosti, to su stanovi i apartmani priuštivij
 Neki podaci su potisnuti radi zaštite privatnosti i podataka u manjim sredinama.
 Ako je unutar jls izvršeno manje od 10 kupoprodajnih transakcija, onda su podaci potisnuti.
 Unutar Excel tablica znak "." označava 0 transakcija, a znak "z" označava barem jednu, ali manje od 10 transakcija.
+Također, iz tablice indeksa priuštivosti smo u analizi podataka izbacili jls Zaprešić zbog sumnjivo velikog
+indeksa od 12936. Ovo je najvjerojatnije greška u decimalnom zapisu, ali je nemoguće biti siguran pa
+smo Zaprešić maknuli iz analize.
 
 Godišnji brojevi transakcija prilično dobro prate sinusoidnu krivulju.
 U 2013.g. vidimo najniži broj transakcija.
