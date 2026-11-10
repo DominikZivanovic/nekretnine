@@ -1,0 +1,557 @@
+sifra,jls,zupanija,tip_jls,godina,indeks_priustivosti,status
+19,Andrijaševci,Vukovarsko-srijemska,Općina,2024,NA,potisnuto
+27,Antunovac,Osječko-baranjska,Općina,2024,NA,nema_transakcija
+35,Babina Greda,Vukovarsko-srijemska,Općina,2024,NA,nema_transakcija
+43,Bakar,Primorsko-goranska,Grad,2024,14.17966,opservirano
+51,Bale-Valle,Istarska,Općina,2024,NA,potisnuto
+60,Barban,Istarska,Općina,2024,NA,potisnuto
+78,Barilović,Karlovačka,Općina,2024,NA,nema_transakcija
+86,Baška,Primorsko-goranska,Općina,2024,42.98503,opservirano
+94,Baška Voda,Splitsko-dalmatinska,Općina,2024,35.701080000000005,opservirano
+108,Bebrina,Brodsko-posavska,Općina,2024,NA,nema_transakcija
+116,Bedekovčina,Krapinsko-zagorska,Općina,2024,NA,potisnuto
+5509,Bedenica,Zagrebačka,Općina,2024,NA,nema_transakcija
+124,Bednja,Varaždinska,Općina,2024,NA,nema_transakcija
+132,Beli Manastir,Osječko-baranjska,Grad,2024,7.217003,opservirano
+159,Belica,Međimurska,Općina,2024,NA,nema_transakcija
+167,Belišće,Osječko-baranjska,Grad,2024,7.282419,opservirano
+175,Benkovac,Zadarska,Grad,2024,9.198557999999998,opservirano
+183,Berek,Bjelovarsko-bilogorska,Općina,2024,NA,nema_transakcija
+191,Beretinec,Varaždinska,Općina,2024,NA,nema_transakcija
+205,Bibinje,Zadarska,Općina,2024,24.33188000000001,opservirano
+6211,Bilice,Šibensko-kninska,Općina,2024,NA,potisnuto
+213,Bilje,Osječko-baranjska,Općina,2024,NA,potisnuto
+221,Biograd na Moru,Zadarska,Grad,2024,23.7197,opservirano
+3107,Biskupija,Šibensko-kninska,Općina,2024,NA,nema_transakcija
+5479,Bistra,Zagrebačka,Općina,2024,NA,potisnuto
+230,Bizovac,Osječko-baranjska,Općina,2024,NA,nema_transakcija
+248,Bjelovar,Bjelovarsko-bilogorska,Veliki grad,2024,10.47888,opservirano
+256,Blato,Dubrovačko-neretvanska,Općina,2024,NA,potisnuto
+264,Bogdanovci,Vukovarsko-srijemska,Općina,2024,NA,nema_transakcija
+272,Bol,Splitsko-dalmatinska,Općina,2024,39.40017,opservirano
+299,Borovo,Vukovarsko-srijemska,Općina,2024,NA,nema_transakcija
+302,Bosiljevo,Karlovačka,Općina,2024,NA,nema_transakcija
+329,Bošnjaci,Vukovarsko-srijemska,Općina,2024,NA,nema_transakcija
+337,Brckovljani,Zagrebačka,Općina,2024,NA,potisnuto
+345,Brdovec,Zagrebačka,Općina,2024,9.658302999999998,opservirano
+779,Brela,Splitsko-dalmatinska,Općina,2024,NA,potisnuto
+353,Brestovac,Požeško-slavonska,Općina,2024,NA,nema_transakcija
+361,Breznica,Varaždinska,Općina,2024,NA,nema_transakcija
+1511,Breznički Hum,Varaždinska,Općina,2024,NA,nema_transakcija
+370,Brinje,Ličko-senjska,Općina,2024,NA,potisnuto
+388,Brod Moravice,Primorsko-goranska,Općina,2024,NA,nema_transakcija
+396,Brodski Stupnik,Brodsko-posavska,Općina,2024,NA,nema_transakcija
+400,Brtonigla-Verteneglio,Istarska,Općina,2024,37.320820000000005,opservirano
+418,Budinščina,Krapinsko-zagorska,Općina,2024,NA,potisnuto
+426,Buje-Buie,Istarska,Grad,2024,19.758479999999995,opservirano
+5673,Bukovlje,Brodsko-posavska,Općina,2024,NA,nema_transakcija
+434,Buzet,Istarska,Grad,2024,NA,potisnuto
+442,Cerna,Vukovarsko-srijemska,Općina,2024,NA,nema_transakcija
+469,Cernik,Brodsko-posavska,Općina,2024,NA,nema_transakcija
+477,Cerovlje,Istarska,Općina,2024,NA,potisnuto
+485,Cestica,Varaždinska,Općina,2024,NA,potisnuto
+493,Cetingrad,Karlovačka,Općina,2024,NA,nema_transakcija
+507,Cista Provo,Splitsko-dalmatinska,Općina,2024,NA,nema_transakcija
+515,Civljane,Šibensko-kninska,Općina,2024,NA,nema_transakcija
+523,Cres,Primorsko-goranska,Grad,2024,19.19787000000001,opservirano
+531,Crikvenica,Primorsko-goranska,Grad,2024,28.50122,opservirano
+540,Crnac,Virovitičko-podravska,Općina,2024,NA,nema_transakcija
+558,Čabar,Primorsko-goranska,Grad,2024,NA,potisnuto
+566,Čačinci,Virovitičko-podravska,Općina,2024,NA,nema_transakcija
+574,Čađavica,Virovitičko-podravska,Općina,2024,NA,nema_transakcija
+582,Čaglin,Požeško-slavonska,Općina,2024,NA,potisnuto
+604,Čakovec,Međimurska,Veliki grad,2024,12.49085,opservirano
+612,Čavle,Primorsko-goranska,Općina,2024,NA,potisnuto
+639,Čazma,Bjelovarsko-bilogorska,Grad,2024,10.357590000000002,opservirano
+647,Čeminac,Osječko-baranjska,Općina,2024,NA,nema_transakcija
+655,Čepin,Osječko-baranjska,Općina,2024,NA,nema_transakcija
+663,Darda,Osječko-baranjska,Općina,2024,6.206173,opservirano
+671,Daruvar,Bjelovarsko-bilogorska,Grad,2024,9.862468000000003,opservirano
+680,Davor,Brodsko-posavska,Općina,2024,NA,nema_transakcija
+6033,Dekanovec,Međimurska,Općina,2024,NA,nema_transakcija
+698,Delnice,Primorsko-goranska,Grad,2024,8.089910000000001,opservirano
+701,Desinić,Krapinsko-zagorska,Općina,2024,NA,nema_transakcija
+710,Dežanovac,Bjelovarsko-bilogorska,Općina,2024,NA,nema_transakcija
+728,Dicmo,Splitsko-dalmatinska,Općina,2024,NA,nema_transakcija
+744,Dobrinj,Primorsko-goranska,Općina,2024,33.22287000000001,opservirano
+752,Domašinec,Međimurska,Općina,2024,NA,nema_transakcija
+787,Donja Dubrava,Međimurska,Općina,2024,NA,potisnuto
+5762,Donja Motičina,Osječko-baranjska,Općina,2024,NA,nema_transakcija
+795,Donja Stubica,Krapinsko-zagorska,Grad,2024,NA,potisnuto
+809,Donja Voća,Varaždinska,Općina,2024,NA,nema_transakcija
+817,Donji Andrijevci,Brodsko-posavska,Općina,2024,NA,potisnuto
+825,Donji Kraljevec,Međimurska,Općina,2024,NA,potisnuto
+833,Donji Kukuruzari,Sisačko-moslavačka,Općina,2024,NA,nema_transakcija
+841,Donji Lapac,Ličko-senjska,Općina,2024,NA,potisnuto
+868,Donji Miholjac,Osječko-baranjska,Grad,2024,NA,potisnuto
+892,Donji Vidovec,Međimurska,Općina,2024,NA,nema_transakcija
+5681,Dragalić,Brodsko-posavska,Općina,2024,NA,nema_transakcija
+906,Draganić,Karlovačka,Općina,2024,NA,potisnuto
+914,Draž,Osječko-baranjska,Općina,2024,NA,nema_transakcija
+922,Drenovci,Vukovarsko-srijemska,Općina,2024,NA,nema_transakcija
+949,Drenje,Osječko-baranjska,Općina,2024,NA,nema_transakcija
+957,Drniš,Šibensko-kninska,Grad,2024,NA,potisnuto
+965,Drnje,Koprivničko-križevačka,Općina,2024,NA,nema_transakcija
+973,Dubrava,Zagrebačka,Općina,2024,NA,potisnuto
+5495,Dubravica,Zagrebačka,Općina,2024,NA,nema_transakcija
+5983,Dubrovačko primorje,Dubrovačko-neretvanska,Općina,2024,NA,potisnuto
+981,Dubrovnik,Dubrovačko-neretvanska,Veliki grad,2024,31.299629999999997,opservirano
+990,Duga Resa,Karlovačka,Grad,2024,9.510862,opservirano
+1007,Dugi Rat,Splitsko-dalmatinska,Općina,2024,15.500960000000001,opservirano
+1015,Dugo Selo,Zagrebačka,Grad,2024,13.18451,opservirano
+5851,Dugopolje,Splitsko-dalmatinska,Općina,2024,24.46189,opservirano
+1023,Dvor,Sisačko-moslavačka,Općina,2024,NA,nema_transakcija
+1031,Đakovo,Osječko-baranjska,Grad,2024,12.474680000000001,opservirano
+1040,Đelekovec,Koprivničko-križevačka,Općina,2024,NA,nema_transakcija
+1058,Đulovac,Bjelovarsko-bilogorska,Općina,2024,NA,nema_transakcija
+1066,Đurđenovac,Osječko-baranjska,Općina,2024,NA,potisnuto
+1074,Đurđevac,Koprivničko-križevačka,Grad,2024,14.67362,opservirano
+1082,Đurmanec,Krapinsko-zagorska,Općina,2024,NA,nema_transakcija
+1104,Erdut,Osječko-baranjska,Općina,2024,NA,nema_transakcija
+1112,Ernestinovo,Osječko-baranjska,Općina,2024,NA,nema_transakcija
+1139,Ervenik,Šibensko-kninska,Općina,2024,NA,nema_transakcija
+1147,Farkaševac,Zagrebačka,Općina,2024,NA,nema_transakcija
+6190,Fažana-Fasana,Istarska,Općina,2024,29.032629999999997,opservirano
+1155,Ferdinandovac,Koprivničko-križevačka,Općina,2024,NA,nema_transakcija
+1163,Feričanci,Osječko-baranjska,Općina,2024,NA,potisnuto
+6297,Funtana-Fontane,Istarska,Općina,2024,NA,potisnuto
+1171,Fužine,Primorsko-goranska,Općina,2024,NA,potisnuto
+5711,Galovac,Zadarska,Općina,2024,NA,nema_transakcija
+1180,Garčin,Brodsko-posavska,Općina,2024,NA,nema_transakcija
+1198,Garešnica,Bjelovarsko-bilogorska,Grad,2024,9.003989,opservirano
+1201,Generalski Stol,Karlovačka,Općina,2024,NA,nema_transakcija
+1210,Glina,Sisačko-moslavačka,Grad,2024,NA,potisnuto
+1228,Gola,Koprivničko-križevačka,Općina,2024,NA,nema_transakcija
+1236,Goričan,Međimurska,Općina,2024,NA,nema_transakcija
+1244,Gorjani,Osječko-baranjska,Općina,2024,NA,nema_transakcija
+6181,Gornja Rijeka,Koprivničko-križevačka,Općina,2024,NA,nema_transakcija
+1252,Gornja Stubica,Krapinsko-zagorska,Općina,2024,NA,nema_transakcija
+5690,Gornja Vrba,Brodsko-posavska,Općina,2024,NA,nema_transakcija
+1279,Gornji Bogićevci,Brodsko-posavska,Općina,2024,NA,nema_transakcija
+1295,Gornji Kneginec,Varaždinska,Općina,2024,NA,nema_transakcija
+6041,Gornji Mihaljevec,Međimurska,Općina,2024,NA,nema_transakcija
+1309,Gospić,Ličko-senjska,Veliki grad,2024,8.675255000000003,opservirano
+1317,Gračac,Zadarska,Općina,2024,NA,potisnuto
+1325,Gračišće,Istarska,Općina,2024,NA,nema_transakcija
+1341,Gradac,Splitsko-dalmatinska,Općina,2024,NA,potisnuto
+1350,Gradec,Zagrebačka,Općina,2024,NA,nema_transakcija
+1368,Gradina,Virovitičko-podravska,Općina,2024,NA,nema_transakcija
+1376,Gradište,Vukovarsko-srijemska,Općina,2024,NA,nema_transakcija
+1384,Grožnjan-Grisignana,Istarska,Općina,2024,NA,nema_transakcija
+1392,Grubišno Polje,Bjelovarsko-bilogorska,Grad,2024,6.990631,opservirano
+1406,Gundinci,Brodsko-posavska,Općina,2024,NA,nema_transakcija
+1414,Gunja,Vukovarsko-srijemska,Općina,2024,NA,nema_transakcija
+5100,Gvozd,Sisačko-moslavačka,Općina,2024,NA,nema_transakcija
+1449,Hercegovac,Bjelovarsko-bilogorska,Općina,2024,NA,nema_transakcija
+1457,Hlebine,Koprivničko-križevačka,Općina,2024,NA,nema_transakcija
+1465,Hrašćina,Krapinsko-zagorska,Općina,2024,NA,nema_transakcija
+1481,Hrvace,Splitsko-dalmatinska,Općina,2024,NA,nema_transakcija
+1490,Hrvatska Dubica,Sisačko-moslavačka,Općina,2024,NA,nema_transakcija
+1503,Hrvatska Kostajnica,Sisačko-moslavačka,Grad,2024,NA,potisnuto
+1520,Hum na Sutli,Krapinsko-zagorska,Općina,2024,NA,potisnuto
+1538,Hvar,Splitsko-dalmatinska,Grad,2024,35.285610000000005,opservirano
+1546,Ilok,Vukovarsko-srijemska,Grad,2024,1.1338229999999998,opservirano
+1554,Imotski,Splitsko-dalmatinska,Grad,2024,14.628899999999998,opservirano
+1562,Ivanec,Varaždinska,Grad,2024,16.1359,opservirano
+1589,Ivanić-Grad,Zagrebačka,Grad,2024,14.437919999999998,opservirano
+1597,Ivankovo,Vukovarsko-srijemska,Općina,2024,NA,potisnuto
+1619,Ivanska,Bjelovarsko-bilogorska,Općina,2024,NA,potisnuto
+6092,Jagodnjak,Osječko-baranjska,Općina,2024,NA,nema_transakcija
+1635,Jakovlje,Zagrebačka,Općina,2024,NA,nema_transakcija
+1643,Jakšić,Požeško-slavonska,Općina,2024,NA,nema_transakcija
+1651,Jalžabet,Varaždinska,Općina,2024,NA,nema_transakcija
+5991,Janjina,Dubrovačko-neretvanska,Općina,2024,NA,potisnuto
+1660,Jarmina,Vukovarsko-srijemska,Općina,2024,NA,nema_transakcija
+1678,Jasenice,Zadarska,Općina,2024,20.25857999999999,opservirano
+1686,Jasenovac,Sisačko-moslavačka,Općina,2024,NA,potisnuto
+1694,Jastrebarsko,Zagrebačka,Grad,2024,10.08741,opservirano
+1708,Jelenje,Primorsko-goranska,Općina,2024,17.226939999999995,opservirano
+1716,Jelsa,Splitsko-dalmatinska,Općina,2024,33.05359,opservirano
+5525,Jesenje,Krapinsko-zagorska,Općina,2024,NA,nema_transakcija
+1724,Josipdol,Karlovačka,Općina,2024,NA,potisnuto
+1732,Kali,Zadarska,Općina,2024,NA,potisnuto
+5592,Kalinovac,Koprivničko-križevačka,Općina,2024,NA,nema_transakcija
+5606,Kalnik,Koprivničko-križevačka,Općina,2024,NA,nema_transakcija
+6238,Kamanje,Karlovačka,Općina,2024,NA,nema_transakcija
+1759,Kanfanar,Istarska,Općina,2024,NA,potisnuto
+1767,Kapela,Bjelovarsko-bilogorska,Općina,2024,NA,nema_transakcija
+1775,Kaptol,Požeško-slavonska,Općina,2024,NA,nema_transakcija
+1783,Karlobag,Ličko-senjska,Općina,2024,21.773289999999996,opservirano
+1791,Karlovac,Karlovačka,Grad,2024,11.15094,opservirano
+5967,Karojba,Istarska,Općina,2024,NA,nema_transakcija
+1805,Kastav,Primorsko-goranska,Grad,2024,18.743019999999998,opservirano
+1813,Kaštela,Splitsko-dalmatinska,Veliki grad,2024,19.2447,opservirano
+5975,Kaštelir-Labinci-Castelliere-S. Domenica,Istarska,Općina,2024,NA,potisnuto
+1830,Kijevo,Šibensko-kninska,Općina,2024,NA,nema_transakcija
+1848,Kistanje,Šibensko-kninska,Općina,2024,NA,potisnuto
+1856,Klakar,Brodsko-posavska,Općina,2024,NA,nema_transakcija
+1864,Klana,Primorsko-goranska,Općina,2024,NA,potisnuto
+1872,Klanjec,Krapinsko-zagorska,Grad,2024,NA,potisnuto
+1899,Klenovnik,Varaždinska,Općina,2024,NA,potisnuto
+1902,Klinča Sela,Zagrebačka,Općina,2024,8.617913999999999,opservirano
+1929,Klis,Splitsko-dalmatinska,Općina,2024,26.107550000000003,opservirano
+1937,Kloštar Ivanić,Zagrebačka,Općina,2024,NA,potisnuto
+1945,Kloštar Podravski,Koprivničko-križevačka,Općina,2024,NA,nema_transakcija
+1953,Kneževi Vinogradi,Osječko-baranjska,Općina,2024,NA,potisnuto
+1961,Knin,Šibensko-kninska,Grad,2024,4.782497,opservirano
+6220,Kolan,Zadarska,Općina,2024,29.034669999999995,opservirano
+1970,Komiža,Splitsko-dalmatinska,Grad,2024,NA,potisnuto
+1988,Konavle,Dubrovačko-neretvanska,Općina,2024,25.574929999999995,opservirano
+1996,Končanica,Bjelovarsko-bilogorska,Općina,2024,NA,nema_transakcija
+2003,Konjščina,Krapinsko-zagorska,Općina,2024,NA,potisnuto
+2011,Koprivnica,Koprivničko-križevačka,Veliki grad,2024,18.56389,opservirano
+2020,Koprivnički Bregi,Koprivničko-križevačka,Općina,2024,NA,potisnuto
+2038,Koprivnički Ivanec,Koprivničko-križevačka,Općina,2024,NA,nema_transakcija
+2046,Korčula,Dubrovačko-neretvanska,Grad,2024,25.71768,opservirano
+5380,Kostrena,Primorsko-goranska,Općina,2024,21.23931,opservirano
+2054,Koška,Osječko-baranjska,Općina,2024,NA,nema_transakcija
+2062,Kotoriba,Međimurska,Općina,2024,NA,potisnuto
+2089,Kraljevec na Sutli,Krapinsko-zagorska,Općina,2024,NA,nema_transakcija
+2097,Kraljevica,Primorsko-goranska,Grad,2024,NA,potisnuto
+2119,Krapina,Krapinsko-zagorska,Veliki grad,2024,13.150360000000001,opservirano
+2127,Krapinske Toplice,Krapinsko-zagorska,Općina,2024,12.506690000000003,opservirano
+5339,Krašić,Zagrebačka,Općina,2024,NA,nema_transakcija
+5452,Kravarsko,Zagrebačka,Općina,2024,NA,nema_transakcija
+2135,Križ,Zagrebačka,Općina,2024,NA,potisnuto
+2143,Križevci,Koprivničko-križevačka,Grad,2024,15.1361,opservirano
+2151,Krk,Primorsko-goranska,Grad,2024,33.91424,opservirano
+2160,Krnjak,Karlovačka,Općina,2024,NA,nema_transakcija
+2178,Kršan,Istarska,Općina,2024,NA,potisnuto
+5720,Kukljica,Zadarska,Općina,2024,55.76944,opservirano
+2194,Kula Norinska,Dubrovačko-neretvanska,Općina,2024,NA,nema_transakcija
+5533,Kumrovec,Krapinsko-zagorska,Općina,2024,NA,nema_transakcija
+2208,Kutina,Sisačko-moslavačka,Grad,2024,9.40384,opservirano
+2216,Kutjevo,Požeško-slavonska,Grad,2024,NA,potisnuto
+2224,Labin,Istarska,Grad,2024,20.698699999999995,opservirano
+2232,Lanišće,Istarska,Općina,2024,NA,nema_transakcija
+2259,Lasinja,Karlovačka,Općina,2024,NA,nema_transakcija
+2267,Lastovo,Dubrovačko-neretvanska,Općina,2024,NA,potisnuto
+5860,Lećevica,Splitsko-dalmatinska,Općina,2024,NA,nema_transakcija
+2275,Legrad,Koprivničko-križevačka,Općina,2024,NA,nema_transakcija
+2283,Lekenik,Sisačko-moslavačka,Općina,2024,NA,nema_transakcija
+2291,Lepoglava,Varaždinska,Grad,2024,NA,potisnuto
+2305,Levanjska Varoš,Osječko-baranjska,Općina,2024,NA,potisnuto
+2313,Lipik,Požeško-slavonska,Grad,2024,NA,potisnuto
+2321,Lipovljani,Sisačko-moslavačka,Općina,2024,NA,nema_transakcija
+2348,Lišane Ostrovičke,Zadarska,Općina,2024,NA,nema_transakcija
+2356,Ližnjan-Lisignano,Istarska,Općina,2024,21.154060000000005,opservirano
+2364,Lobor,Krapinsko-zagorska,Općina,2024,NA,nema_transakcija
+2372,Lokve,Primorsko-goranska,Općina,2024,NA,nema_transakcija
+5878,Lokvičići,Splitsko-dalmatinska,Općina,2024,NA,nema_transakcija
+6246,Lopar,Primorsko-goranska,Općina,2024,NA,potisnuto
+2399,Lovas,Vukovarsko-srijemska,Općina,2024,NA,nema_transakcija
+2402,Lovinac,Ličko-senjska,Općina,2024,NA,nema_transakcija
+2429,Lovran,Primorsko-goranska,Općina,2024,29.848439999999997,opservirano
+2437,Lovreć,Splitsko-dalmatinska,Općina,2024,NA,nema_transakcija
+2445,Ludbreg,Varaždinska,Grad,2024,NA,potisnuto
+5487,Luka,Zagrebačka,Općina,2024,NA,nema_transakcija
+2453,Lukač,Virovitičko-podravska,Općina,2024,NA,nema_transakcija
+6009,Lumbarda,Dubrovačko-neretvanska,Općina,2024,NA,potisnuto
+2461,Lupoglav,Istarska,Općina,2024,NA,nema_transakcija
+2470,Ljubešćica,Varaždinska,Općina,2024,NA,nema_transakcija
+2488,Mače,Krapinsko-zagorska,Općina,2024,NA,nema_transakcija
+5789,Magadenovac,Osječko-baranjska,Općina,2024,NA,nema_transakcija
+5550,Majur,Sisačko-moslavačka,Općina,2024,NA,nema_transakcija
+2496,Makarska,Splitsko-dalmatinska,Grad,2024,28.97586,opservirano
+2500,Mala Subotica,Međimurska,Općina,2024,NA,potisnuto
+2518,Mali Bukovec,Varaždinska,Općina,2024,NA,nema_transakcija
+2526,Mali Lošinj,Primorsko-goranska,Grad,2024,28.54149,opservirano
+2534,Malinska-Dubašnica,Primorsko-goranska,Općina,2024,37.72757000000001,opservirano
+2542,Marčana,Istarska,Općina,2024,21.342719999999996,opservirano
+2569,Marija Bistrica,Krapinsko-zagorska,Općina,2024,NA,potisnuto
+5398,Marija Gorica,Zagrebačka,Općina,2024,NA,nema_transakcija
+2577,Marijanci,Osječko-baranjska,Općina,2024,NA,potisnuto
+2585,Marina,Splitsko-dalmatinska,Općina,2024,24.83651,opservirano
+6106,Markušica,Vukovarsko-srijemska,Općina,2024,NA,nema_transakcija
+850,Martijanec,Varaždinska,Općina,2024,NA,nema_transakcija
+2593,Martinska Ves,Sisačko-moslavačka,Općina,2024,NA,nema_transakcija
+2607,Maruševec,Varaždinska,Općina,2024,NA,potisnuto
+2615,Matulji,Primorsko-goranska,Općina,2024,17.317270000000004,opservirano
+2631,Medulin,Istarska,Općina,2024,24.03744,opservirano
+2640,Metković,Dubrovačko-neretvanska,Grad,2024,16.863419999999998,opservirano
+2658,Mihovljan,Krapinsko-zagorska,Općina,2024,NA,nema_transakcija
+2666,Mikleuš,Virovitičko-podravska,Općina,2024,NA,nema_transakcija
+2674,Milna,Splitsko-dalmatinska,Općina,2024,30.614770000000004,opservirano
+2682,Mljet,Dubrovačko-neretvanska,Općina,2024,NA,nema_transakcija
+2704,Molve,Koprivničko-križevačka,Općina,2024,NA,potisnuto
+2739,Mošćenička Draga,Primorsko-goranska,Općina,2024,NA,potisnuto
+2747,Motovun-Montona,Istarska,Općina,2024,NA,nema_transakcija
+2755,Mrkopalj,Primorsko-goranska,Općina,2024,NA,potisnuto
+876,Muć,Splitsko-dalmatinska,Općina,2024,NA,nema_transakcija
+2763,Mursko Središće,Međimurska,Grad,2024,NA,potisnuto
+6173,Murter-Kornati,Šibensko-kninska,Općina,2024,34.011489999999995,opservirano
+2780,Našice,Osječko-baranjska,Grad,2024,11.07632,opservirano
+2798,Nedelišće,Međimurska,Općina,2024,NA,nema_transakcija
+6122,Negoslavci,Vukovarsko-srijemska,Općina,2024,NA,nema_transakcija
+2801,Nerežišća,Splitsko-dalmatinska,Općina,2024,NA,potisnuto
+2810,Netretić,Karlovačka,Općina,2024,NA,nema_transakcija
+2950,Nijemci,Vukovarsko-srijemska,Općina,2024,NA,nema_transakcija
+2828,Nin,Zadarska,Grad,2024,25.056619999999995,opservirano
+2836,Nova Bukovica,Virovitičko-podravska,Općina,2024,NA,nema_transakcija
+2844,Nova Gradiška,Brodsko-posavska,Grad,2024,9.224504,opservirano
+2852,Nova Kapela,Brodsko-posavska,Općina,2024,NA,nema_transakcija
+2879,Nova Rača,Bjelovarsko-bilogorska,Općina,2024,NA,nema_transakcija
+2887,Novalja,Ličko-senjska,Grad,2024,38.5377,opservirano
+5541,Novi Golubovec,Krapinsko-zagorska,Općina,2024,NA,nema_transakcija
+2895,Novi Marof,Varaždinska,Grad,2024,NA,potisnuto
+2909,Novi Vinodolski,Primorsko-goranska,Grad,2024,25.86138,opservirano
+5371,Novigrad,Zadarska,Općina,2024,NA,potisnuto
+2925,Novigrad Podravski,Koprivničko-križevačka,Općina,2024,31.70702,opservirano
+2917,Novigrad-Cittanova,Istarska,Grad,2024,NA,nema_transakcija
+5614,Novo Virje,Koprivničko-križevačka,Općina,2024,NA,nema_transakcija
+2933,Novska,Sisačko-moslavačka,Grad,2024,9.252022,opservirano
+2941,Nuštar,Vukovarsko-srijemska,Općina,2024,NA,nema_transakcija
+2968,Obrovac,Zadarska,Grad,2024,12.96621,opservirano
+2976,Ogulin,Karlovačka,Grad,2024,10.25793,opservirano
+5886,Okrug,Splitsko-dalmatinska,Općina,2024,27.422149999999988,opservirano
+2992,Okučani,Brodsko-posavska,Općina,2024,NA,potisnuto
+3000,Omiš,Splitsko-dalmatinska,Grad,2024,30.01548,opservirano
+3018,Omišalj,Primorsko-goranska,Općina,2024,29.697590000000005,opservirano
+3026,Opatija,Primorsko-goranska,Grad,2024,31.11569,opservirano
+3034,Oprisavci,Brodsko-posavska,Općina,2024,NA,nema_transakcija
+3042,Oprtalj-Portole,Istarska,Općina,2024,NA,nema_transakcija
+3069,Opuzen,Dubrovačko-neretvanska,Grad,2024,NA,potisnuto
+3077,Orahovica,Virovitičko-podravska,Grad,2024,NA,potisnuto
+3085,Orebić,Dubrovačko-neretvanska,Općina,2024,28.444609999999997,opservirano
+6050,Orehovica,Međimurska,Općina,2024,NA,nema_transakcija
+3093,Oriovac,Brodsko-posavska,Općina,2024,NA,potisnuto
+5428,Orle,Zagrebačka,Općina,2024,NA,nema_transakcija
+3115,Oroslavje,Krapinsko-zagorska,Grad,2024,NA,potisnuto
+3123,Osijek,Osječko-baranjska,Veliki grad,2024,11.8347,opservirano
+3131,Otočac,Ličko-senjska,Grad,2024,9.615953000000001,opservirano
+5355,Otok,Vukovarsko-srijemska,Grad,2024,NA,nema_transakcija
+3140,Otok,Splitsko-dalmatinska,Općina,2024,NA,nema_transakcija
+3158,Ozalj,Karlovačka,Grad,2024,NA,potisnuto
+3166,Pag,Zadarska,Grad,2024,24.165099999999995,opservirano
+3174,Pakoštane,Zadarska,Općina,2024,21.050870000000003,opservirano
+3182,Pakrac,Požeško-slavonska,Grad,2024,6.336552,opservirano
+3204,Pašman,Zadarska,Općina,2024,8.028291,opservirano
+3212,Pazin,Istarska,Veliki grad,2024,13.07066,opservirano
+3239,Perušić,Ličko-senjska,Općina,2024,NA,potisnuto
+3247,Peteranec,Koprivničko-križevačka,Općina,2024,NA,nema_transakcija
+3255,Petlovac,Osječko-baranjska,Općina,2024,NA,nema_transakcija
+3263,Petrijanec,Varaždinska,Općina,2024,NA,nema_transakcija
+3271,Petrijevci,Osječko-baranjska,Općina,2024,NA,nema_transakcija
+3280,Petrinja,Sisačko-moslavačka,Grad,2024,9.102250000000002,opservirano
+3298,Petrovsko,Krapinsko-zagorska,Općina,2024,NA,nema_transakcija
+3301,Pićan,Istarska,Općina,2024,NA,nema_transakcija
+5819,Pirovac,Šibensko-kninska,Općina,2024,23.274419999999996,opservirano
+3310,Pisarovina,Zagrebačka,Općina,2024,NA,potisnuto
+3328,Pitomača,Virovitičko-podravska,Općina,2024,9.572126,opservirano
+3336,Plaški,Karlovačka,Općina,2024,NA,nema_transakcija
+3344,Pleternica,Požeško-slavonska,Grad,2024,NA,potisnuto
+4553,Plitvička Jezera,Ličko-senjska,Općina,2024,1.7517779999999998,opservirano
+3352,Ploče,Dubrovačko-neretvanska,Grad,2024,14.291709999999998,opservirano
+3379,Podbablje,Splitsko-dalmatinska,Općina,2024,NA,potisnuto
+3387,Podcrkavlje,Brodsko-posavska,Općina,2024,NA,potisnuto
+3395,Podgora,Splitsko-dalmatinska,Općina,2024,36.35299,opservirano
+3409,Podgorač,Osječko-baranjska,Općina,2024,NA,nema_transakcija
+2712,Podravska Moslavina,Osječko-baranjska,Općina,2024,NA,nema_transakcija
+6165,Podravske Sesvete,Koprivničko-križevačka,Općina,2024,NA,nema_transakcija
+3417,Podstrana,Splitsko-dalmatinska,Općina,2024,25.2972,opservirano
+3425,Podturen,Međimurska,Općina,2024,NA,nema_transakcija
+3433,Pojezerje,Dubrovačko-neretvanska,Općina,2024,NA,nema_transakcija
+5444,Pokupsko,Zagrebačka,Općina,2024,NA,nema_transakcija
+3441,Polača,Zadarska,Općina,2024,NA,nema_transakcija
+3450,Poličnik,Zadarska,Općina,2024,NA,potisnuto
+3468,Popovac,Osječko-baranjska,Općina,2024,NA,potisnuto
+3476,Popovača,Sisačko-moslavačka,Grad,2024,9.532664,opservirano
+3484,Poreč-Parenzo,Istarska,Grad,2024,30.906339999999997,opservirano
+3492,Posedarje,Zadarska,Općina,2024,24.15227,opservirano
+3506,Postira,Splitsko-dalmatinska,Općina,2024,31.8715,opservirano
+5738,Povljana,Zadarska,Općina,2024,26.820039999999995,opservirano
+3514,Požega,Požeško-slavonska,Veliki grad,2024,8.938562999999998,opservirano
+3522,Pregrada,Krapinsko-zagorska,Grad,2024,11.76234,opservirano
+3549,Preko,Zadarska,Općina,2024,22.205789999999997,opservirano
+3557,Prelog,Međimurska,Grad,2024,NA,potisnuto
+3565,Preseka,Zagrebačka,Općina,2024,NA,nema_transakcija
+5894,Prgomet,Splitsko-dalmatinska,Općina,2024,NA,nema_transakcija
+6203,Pribislavec,Međimurska,Općina,2024,NA,nema_transakcija
+5908,Primorski Dolac,Splitsko-dalmatinska,Općina,2024,NA,nema_transakcija
+3573,Primošten,Šibensko-kninska,Općina,2024,33.457919999999994,opservirano
+5835,Privlaka,Vukovarsko-srijemska,Općina,2024,24.164829999999995,opservirano
+5746,Privlaka,Zadarska,Općina,2024,NA,nema_transakcija
+884,Proložac,Splitsko-dalmatinska,Općina,2024,NA,nema_transakcija
+2984,Promina,Šibensko-kninska,Općina,2024,NA,nema_transakcija
+3581,Pučišća,Splitsko-dalmatinska,Općina,2024,NA,nema_transakcija
+3590,Pula-Pola,Istarska,Veliki grad,2024,20.892679999999995,opservirano
+3603,Punat,Primorsko-goranska,Općina,2024,34.396620000000006,opservirano
+3611,Punitovci,Osječko-baranjska,Općina,2024,NA,nema_transakcija
+3620,Pušća,Zagrebačka,Općina,2024,NA,nema_transakcija
+3638,Rab,Primorsko-goranska,Grad,2024,25.402499999999996,opservirano
+3646,Radoboj,Krapinsko-zagorska,Općina,2024,NA,nema_transakcija
+5363,Rakovec,Zagrebačka,Općina,2024,NA,nema_transakcija
+3654,Rakovica,Karlovačka,Općina,2024,NA,potisnuto
+3662,Rasinja,Koprivničko-križevačka,Općina,2024,NA,potisnuto
+3689,Raša,Istarska,Općina,2024,16.227639999999997,opservirano
+3697,Ravna Gora,Primorsko-goranska,Općina,2024,NA,potisnuto
+3719,Ražanac,Zadarska,Općina,2024,NA,potisnuto
+3727,Rešetari,Brodsko-posavska,Općina,2024,NA,nema_transakcija
+5568,Ribnik,Karlovačka,Općina,2024,NA,nema_transakcija
+3735,Rijeka,Primorsko-goranska,Veliki grad,2024,20.61182000000001,opservirano
+5827,Rogoznica,Šibensko-kninska,Općina,2024,30.142519999999998,opservirano
+3743,Rovinj-Rovigno,Istarska,Grad,2024,39.73809000000001,opservirano
+3751,Rovišće,Bjelovarsko-bilogorska,Općina,2024,NA,potisnuto
+3760,Rugvica,Zagrebačka,Općina,2024,NA,potisnuto
+5916,Runovići,Splitsko-dalmatinska,Općina,2024,NA,nema_transakcija
+3778,Ružić,Šibensko-kninska,Općina,2024,NA,nema_transakcija
+3786,Saborsko,Karlovačka,Općina,2024,NA,nema_transakcija
+3794,Sali,Zadarska,Općina,2024,NA,potisnuto
+3808,Samobor,Zagrebačka,Veliki grad,2024,15.726809999999999,opservirano
+3816,Satnica Đakovačka,Osječko-baranjska,Općina,2024,NA,nema_transakcija
+3824,Seget,Splitsko-dalmatinska,Općina,2024,31.09069999999999,opservirano
+3832,Selca,Splitsko-dalmatinska,Općina,2024,NA,potisnuto
+3859,Selnica,Međimurska,Općina,2024,NA,potisnuto
+3867,Semeljci,Osječko-baranjska,Općina,2024,NA,nema_transakcija
+3875,Senj,Ličko-senjska,Grad,2024,20.01604,opservirano
+5622,Severin,Bjelovarsko-bilogorska,Općina,2024,NA,nema_transakcija
+3883,Sibinj,Brodsko-posavska,Općina,2024,NA,nema_transakcija
+5703,Sikirevci,Brodsko-posavska,Općina,2024,NA,nema_transakcija
+3891,Sinj,Splitsko-dalmatinska,Grad,2024,15.07025,opservirano
+3905,Sirač,Bjelovarsko-bilogorska,Općina,2024,NA,nema_transakcija
+3913,Sisak,Sisačko-moslavačka,Veliki grad,2024,10.473730000000002,opservirano
+3930,Skrad,Primorsko-goranska,Općina,2024,NA,nema_transakcija
+3948,Skradin,Šibensko-kninska,Grad,2024,NA,potisnuto
+3956,Slatina,Virovitičko-podravska,Grad,2024,NA,potisnuto
+3964,Slavonski Brod,Brodsko-posavska,Veliki grad,2024,13.39151,opservirano
+3972,Slavonski Šamac,Brodsko-posavska,Općina,2024,NA,potisnuto
+3999,Slivno,Dubrovačko-neretvanska,Općina,2024,25.913439999999998,opservirano
+4006,Slunj,Karlovačka,Grad,2024,NA,potisnuto
+4022,Smokvica,Dubrovačko-neretvanska,Općina,2024,NA,nema_transakcija
+4057,Sokolovac,Koprivničko-križevačka,Općina,2024,NA,nema_transakcija
+4065,Solin,Splitsko-dalmatinska,Grad,2024,24.33754,opservirano
+4073,Sopje,Virovitičko-podravska,Općina,2024,NA,nema_transakcija
+4090,Split,Splitsko-dalmatinska,Veliki grad,2024,30.773529999999997,opservirano
+4103,Sračinec,Varaždinska,Općina,2024,NA,potisnuto
+4111,Stankovci,Zadarska,Općina,2024,NA,nema_transakcija
+4120,Stara Gradiška,Brodsko-posavska,Općina,2024,NA,potisnuto
+4138,Stari Grad,Splitsko-dalmatinska,Grad,2024,NA,potisnuto
+4146,Stari Jankovci,Vukovarsko-srijemska,Općina,2024,NA,nema_transakcija
+4154,Stari Mikanovci,Vukovarsko-srijemska,Općina,2024,NA,potisnuto
+4162,Starigrad,Zadarska,Općina,2024,26.93647,opservirano
+4189,Staro Petrovo Selo,Brodsko-posavska,Općina,2024,NA,nema_transakcija
+4197,Ston,Dubrovačko-neretvanska,Općina,2024,NA,potisnuto
+6068,Strahoninec,Međimurska,Općina,2024,NA,potisnuto
+4219,Strizivojna,Osječko-baranjska,Općina,2024,NA,nema_transakcija
+4227,Stubičke Toplice,Krapinsko-zagorska,Općina,2024,NA,potisnuto
+5517,Stupnik,Zagrebačka,Općina,2024,NA,potisnuto
+4235,Sućuraj,Splitsko-dalmatinska,Općina,2024,NA,potisnuto
+4243,Suhopolje,Virovitičko-podravska,Općina,2024,NA,nema_transakcija
+4251,Sukošan,Zadarska,Općina,2024,20.27567,opservirano
+4260,Sunja,Sisačko-moslavačka,Općina,2024,NA,potisnuto
+4278,Supetar,Splitsko-dalmatinska,Grad,2024,28.55947,opservirano
+5924,Sutivan,Splitsko-dalmatinska,Općina,2024,36.10573000000001,opservirano
+6076,Sveta Marija,Međimurska,Općina,2024,NA,nema_transakcija
+4324,Sveta Nedelja,Istarska,Općina,2024,13.88635,opservirano
+4367,Sveta Nedelja,Zagrebačka,Grad,2024,NA,potisnuto
+4375,Sveti Đurđ,Varaždinska,Općina,2024,NA,nema_transakcija
+4286,Sveti Filip i Jakov,Zadarska,Općina,2024,24.18891,opservirano
+4383,Sveti Ilija,Varaždinska,Općina,2024,NA,nema_transakcija
+4294,Sveti Ivan Zelina,Zagrebačka,Grad,2024,16.124810000000004,opservirano
+4391,Sveti Ivan Žabno,Koprivničko-križevačka,Općina,2024,NA,potisnuto
+4405,Sveti Juraj na Bregu,Međimurska,Općina,2024,NA,potisnuto
+4308,Sveti Križ Začretje,Krapinsko-zagorska,Općina,2024,NA,potisnuto
+4316,Sveti Lovreč,Istarska,Općina,2024,NA,potisnuto
+4413,Sveti Martin na Muri,Međimurska,Općina,2024,13.561770000000001,opservirano
+4421,Sveti Petar Orehovec,Koprivničko-križevačka,Općina,2024,NA,nema_transakcija
+4332,Sveti Petar u Šumi,Istarska,Općina,2024,NA,nema_transakcija
+4359,Svetvinčenat,Istarska,Općina,2024,NA,nema_transakcija
+5649,Šandrovac,Bjelovarsko-bilogorska,Općina,2024,NA,nema_transakcija
+6084,Šenkovec,Međimurska,Općina,2024,NA,potisnuto
+4430,Šestanovac,Splitsko-dalmatinska,Općina,2024,NA,nema_transakcija
+4448,Šibenik,Šibensko-kninska,Veliki grad,2024,16.032599999999995,opservirano
+4456,Škabrnja,Zadarska,Općina,2024,NA,potisnuto
+6149,Šodolovci,Osječko-baranjska,Općina,2024,NA,nema_transakcija
+4472,Šolta,Splitsko-dalmatinska,Općina,2024,24.89205,opservirano
+4499,Špišić Bukovica,Virovitičko-podravska,Općina,2024,NA,nema_transakcija
+4502,Štefanje,Bjelovarsko-bilogorska,Općina,2024,NA,potisnuto
+6289,Štitar,Vukovarsko-srijemska,Općina,2024,NA,nema_transakcija
+4529,Štrigova,Međimurska,Općina,2024,NA,nema_transakcija
+6319,Tar-Vabriga-Torre Abrega,Istarska,Općina,2024,26.71761,opservirano
+4537,Tinjan,Istarska,Općina,2024,NA,nema_transakcija
+4545,Tisno,Šibensko-kninska,Općina,2024,26.001329999999996,opservirano
+5754,Tkon,Zadarska,Općina,2024,20.728129999999997,opservirano
+4561,Tompojevci,Vukovarsko-srijemska,Općina,2024,NA,nema_transakcija
+4570,Topusko,Sisačko-moslavačka,Općina,2024,NA,potisnuto
+4588,Tordinci,Vukovarsko-srijemska,Općina,2024,NA,nema_transakcija
+5576,Tounj,Karlovačka,Općina,2024,NA,nema_transakcija
+4596,Tovarnik,Vukovarsko-srijemska,Općina,2024,NA,nema_transakcija
+6262,Tribunj,Šibensko-kninska,Općina,2024,27.412199999999995,opservirano
+4600,Trilj,Splitsko-dalmatinska,Grad,2024,NA,nema_transakcija
+4618,Trnava,Osječko-baranjska,Općina,2024,NA,nema_transakcija
+4626,Trnovec Bartolovečki,Varaždinska,Općina,2024,NA,potisnuto
+4634,Trogir,Splitsko-dalmatinska,Grad,2024,25.42449999999999,opservirano
+6017,Trpanj,Dubrovačko-neretvanska,Općina,2024,NA,nema_transakcija
+4642,Trpinja,Vukovarsko-srijemska,Općina,2024,NA,nema_transakcija
+5932,Tučepi,Splitsko-dalmatinska,Općina,2024,28.75729,opservirano
+4669,Tuhelj,Krapinsko-zagorska,Općina,2024,NA,nema_transakcija
+4677,Udbina,Ličko-senjska,Općina,2024,NA,potisnuto
+4685,Umag-Umago,Istarska,Grad,2024,28.785309999999992,opservirano
+4693,Unešić,Šibensko-kninska,Općina,2024,NA,nema_transakcija
+4715,Valpovo,Osječko-baranjska,Grad,2024,8.113764,opservirano
+4723,Varaždin,Varaždinska,Veliki grad,2024,15.52827,opservirano
+4731,Varaždinske Toplice,Varaždinska,Grad,2024,NA,potisnuto
+4740,Vela Luka,Dubrovačko-neretvanska,Općina,2024,NA,potisnuto
+4758,Velika,Požeško-slavonska,Općina,2024,NA,potisnuto
+5410,Velika Gorica,Zagrebačka,Veliki grad,2024,16.263429999999996,opservirano
+4766,Velika Kopanica,Brodsko-posavska,Općina,2024,NA,nema_transakcija
+4774,Velika Ludina,Sisačko-moslavačka,Općina,2024,NA,potisnuto
+4782,Velika Pisanica,Bjelovarsko-bilogorska,Općina,2024,NA,nema_transakcija
+5657,Velika Trnovitica,Bjelovarsko-bilogorska,Općina,2024,NA,nema_transakcija
+5584,Veliki Bukovec,Varaždinska,Općina,2024,NA,nema_transakcija
+4804,Veliki Grđevac,Bjelovarsko-bilogorska,Općina,2024,NA,potisnuto
+4812,Veliko Trgovišće,Krapinsko-zagorska,Općina,2024,10.52128,opservirano
+4839,Veliko Trojstvo,Bjelovarsko-bilogorska,Općina,2024,NA,nema_transakcija
+4847,Vidovec,Varaždinska,Općina,2024,NA,nema_transakcija
+4855,Viljevo,Osječko-baranjska,Općina,2024,NA,nema_transakcija
+4863,Vinica,Varaždinska,Općina,2024,NA,potisnuto
+4871,Vinkovci,Vukovarsko-srijemska,Veliki grad,2024,9.887697000000003,opservirano
+4880,Vinodolska općina,Primorsko-goranska,Općina,2024,NA,potisnuto
+4898,Vir,Zadarska,Općina,2024,29.01277,opservirano
+4901,Virje,Koprivničko-križevačka,Općina,2024,NA,nema_transakcija
+4910,Virovitica,Virovitičko-podravska,Veliki grad,2024,11.952510000000002,opservirano
+4928,Vis,Splitsko-dalmatinska,Grad,2024,NA,potisnuto
+4936,Visoko,Varaždinska,Općina,2024,NA,nema_transakcija
+4944,Viškovci,Osječko-baranjska,Općina,2024,NA,nema_transakcija
+4952,Viškovo,Primorsko-goranska,Općina,2024,18.09635,opservirano
+4979,Višnjan-Visignano,Istarska,Općina,2024,NA,potisnuto
+4987,Vižinada-Visinada,Istarska,Općina,2024,NA,nema_transakcija
+5797,Vladislavci,Osječko-baranjska,Općina,2024,NA,nema_transakcija
+4995,Voćin,Virovitičko-podravska,Općina,2024,NA,nema_transakcija
+5002,Vodice,Šibensko-kninska,Grad,2024,25.2051,opservirano
+5029,Vodnjan-Dignano,Istarska,Grad,2024,21.41339,opservirano
+5843,Vođinci,Vukovarsko-srijemska,Općina,2024,NA,nema_transakcija
+5037,Vojnić,Karlovačka,Općina,2024,NA,potisnuto
+5045,Vratišinec,Međimurska,Općina,2024,NA,nema_transakcija
+5053,Vrbanja,Vukovarsko-srijemska,Općina,2024,NA,nema_transakcija
+5061,Vrbje,Brodsko-posavska,Općina,2024,NA,nema_transakcija
+5070,Vrbnik,Primorsko-goranska,Općina,2024,NA,potisnuto
+5088,Vrbovec,Zagrebačka,Grad,2024,14.721789999999999,opservirano
+5096,Vrbovsko,Primorsko-goranska,Grad,2024,NA,potisnuto
+5118,Vrgorac,Splitsko-dalmatinska,Grad,2024,NA,potisnuto
+5126,Vrhovine,Ličko-senjska,Općina,2024,NA,potisnuto
+5134,Vrlika,Splitsko-dalmatinska,Grad,2024,NA,nema_transakcija
+5142,Vrpolje,Brodsko-posavska,Općina,2024,NA,potisnuto
+5169,Vrsar-Orsera,Istarska,Općina,2024,41.088240000000006,opservirano
+6254,Vrsi,Zadarska,Općina,2024,15.338840000000001,opservirano
+5177,Vuka,Osječko-baranjska,Općina,2024,NA,nema_transakcija
+5185,Vukovar,Vukovarsko-srijemska,Veliki grad,2024,6.917756999999999,opservirano
+5193,Zabok,Krapinsko-zagorska,Grad,2024,14.043069999999998,opservirano
+5207,Zadar,Zadarska,Veliki grad,2024,23.36816,opservirano
+5959,Zadvarje,Splitsko-dalmatinska,Općina,2024,NA,nema_transakcija
+5215,Zagorska Sela,Krapinsko-zagorska,Općina,2024,NA,nema_transakcija
+1333,Zagreb,Grad Zagreb,Veliki grad,2024,19.10322,opservirano
+5223,Zagvozd,Splitsko-dalmatinska,Općina,2024,NA,nema_transakcija
+5436,Zaprešić,Zagrebačka,Grad,2024,12936,opservirano
+5231,Zažablje,Dubrovačko-neretvanska,Općina,2024,NA,nema_transakcija
+5240,Zdenci,Virovitičko-podravska,Općina,2024,NA,nema_transakcija
+5258,Zemunik Donji,Zadarska,Općina,2024,NA,nema_transakcija
+5266,Zlatar,Krapinsko-zagorska,Grad,2024,NA,potisnuto
+5274,Zlatar Bistrica,Krapinsko-zagorska,Općina,2024,NA,potisnuto
+5282,Zmijavci,Splitsko-dalmatinska,Općina,2024,NA,nema_transakcija
+5665,Zrinski Topolovac,Bjelovarsko-bilogorska,Općina,2024,NA,nema_transakcija
+5304,Žakanje,Karlovačka,Općina,2024,NA,nema_transakcija
+5312,Žminj,Istarska,Općina,2024,NA,potisnuto
+5401,Žumberak,Zagrebačka,Općina,2024,NA,nema_transakcija
+6025,Župa dubrovačka,Dubrovačko-neretvanska,Općina,2024,28.55191,opservirano
+5347,Županja,Vukovarsko-srijemska,Grad,2024,9.958632000000001,opservirano
